@@ -1,0 +1,8 @@
+{
+  "name": "Canjear PDF",
+  "short_name": "Canjear",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#002B7F",
+  "theme_color": "#002B7F"
+}

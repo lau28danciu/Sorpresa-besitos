@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Canjear</title>
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <a class="btn"
+       href="TNBWT8DE61D5F0FA1508.pdf"
+       target="_blank"
+       rel="noopener noreferrer">
+      Canjear
+    </a>
+  </main>
+</body>
+</html>
